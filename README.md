@@ -1,0 +1,1 @@
+These are data files to be used in conjunction w/ Nacaskul, Poomjai (2024), "Data Analytics - Interactive Visualisation, Probabilistic Modelling, and Machine Learning with Mathematica", [ISBN: 978-616-616-147-2].
